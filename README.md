@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Aileen Lim  
 
-<!--
-**leenlims/leenlims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science Major @ CUHK-Shenzhen (Year 2)  
+📊 Interests: Quantitative Finance, NLP, and Vibe Coding 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects  
+- 💹 **Black-Scholes Options Pricer** — Python implementation of pricing stock options.  
+- 🤖 **RL-Tuned Health Chatbot** — Reinforcement learning on GPT-2 for safe, medical Q&A.  
+- 📍 **Location Tracker App** — Web app for tracking and sending locations to devices.  
+- 🎮 **Pokémon TM Finder** — Fun tool to find suitable TMs for the pokemon's needs and the location. 
+
+---
+## 🛠️ Skills  
+- **Programming:** Python, SQL (MySQL, PostgreSQL), Java, HTML/CSS/JS, Flask  
+- **Machine Learning / NLP:** HuggingFace Transformers, TRL (RL for LLMs), TensorFlow, PyTorch, scikit-learn  
+- **Data & Visualization:** pandas, matplotlib, data cleaning & preprocessing  
+- **Collaboration & Tools:** Git/GitHub, Jupyter, Colab  
+- **Quant & Math Applications:** Financial modeling (Black-Scholes), probability & statistics
+
