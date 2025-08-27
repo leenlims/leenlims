@@ -1,15 +1,14 @@
 # 👋 Hi, I’m Aileen Lim  
 
-🎓 Data Science Major @ CUHK-Shenzhen (Year 2)  
-📊 Interests: Quantitative Finance, NLP, and Vibe Coding 
+🎓 Data Science Major with Minor in Finance @ CUHK-Shenzhen (Year 2)  
+📊 Interests: Fun Web Development, Financial Mathematics, and NLP
 
 ---
 
 ## 🚀 Featured Projects  
 - 💹 **Black-Scholes Options Pricer** — Python implementation of pricing stock options.  
-- 🤖 **RL-Tuned Health Chatbot** — Reinforcement learning on GPT-2 for safe, medical Q&A.  
-- 📍 **Location Tracker App** — Web app for tracking and sending locations to devices.  
-- 🎮 **Pokémon TM Finder** — Fun tool to find suitable TMs for the pokemon's needs and the location. 
+- 🤖 **RL-Tuned Health Chatbot** — Reinforcement learning on GPT-2 for safe, medical Q&A.   
+- 🎮 **Pokémon TM Finder** — Fun tool to find suitable TMs for a pokemon and it's location. 
 
 ---
 ## 🛠️ Skills  
@@ -17,5 +16,4 @@
 - **Machine Learning / NLP:** HuggingFace Transformers, TRL (RL for LLMs), TensorFlow, PyTorch, scikit-learn  
 - **Data & Visualization:** pandas, matplotlib, data cleaning & preprocessing  
 - **Collaboration & Tools:** Git/GitHub, Jupyter, Colab  
-- **Quant & Math Applications:** Financial modeling (Black-Scholes), probability & statistics
 
